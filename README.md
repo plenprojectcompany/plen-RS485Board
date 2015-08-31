@@ -1,4 +1,4 @@
-PLEN - baseboard.
+PLEN - RS485 Board.
 ================================================================================
 Copyright (c) 2015.
 ---
@@ -13,4 +13,3 @@ Build enviroment.
 License.
 ---
 This material is released under the Creative Commons BY 4.0.
-
