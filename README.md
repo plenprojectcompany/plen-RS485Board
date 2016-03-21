@@ -1,15 +1,13 @@
-PLEN - RS485 Board.
+RS485 Board | PLEN Project Company
 ================================================================================
-Copyright (c) 2015.
----
-- [NAOHIRO HAYAISHI](http://earlystone.com/)
-- [PLEN Project Company Ltd.](http://plen.jp)
 
-Build enviroment.
----
+## Copyright (c) 2015,
+- [Naohiro HAYAISHI](http://earlystone.com/)
+- [PLEN Project Company Inc.](https://plen.jp)
+
+## Build Environment
 - Windows 8.1
 - Eagle 6.60
 
-License.
----
+## License
 This material is released under the Creative Commons BY 4.0.
