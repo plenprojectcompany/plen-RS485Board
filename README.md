@@ -2,8 +2,9 @@ RS485 Board | PLEN Project Company Inc.
 ===============================================================================
 
 ## Copyright (c) 2015,
-- [Mitsuhiro MIYAGUCHI](https://github.com/mitsuhiromiyaguchi)
 - [PLEN Project Company Inc.](https://plen.jp)
+- Naohiro HAYAISHI
+- [Mitsuhiro MIYAGUCHI](https://github.com/mitsuhiromiyaguchi)
 
 ## Build Environment
 - Windows 8.1
